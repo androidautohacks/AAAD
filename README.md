@@ -3,7 +3,7 @@
 
 ![banner](https://i.imgur.com/EeT5Y3v.png)
 
-# WARNING: THIS IS THE ONLY OFFICIAL DOWNLOAD SOURCE FOR AAAD. AAADAPK.COM, UPTODOWN, SOFTONIC etc. ARE NOT AFFILIATED WITH AAAD IN ANY WAY.
+# WARNING: THIS IS THE ONLY OFFICIAL DOWNLOAD SOURCE FOR AAAD. [AAAD.APP](https://aaad.app) SERVES AS THE COMMUNITY VERSION OF THIS APP
 
 ## Please always download genuine softwares.
 
@@ -48,6 +48,7 @@ AAAD apps were made possible thanks to:
   kododake - AA Browser
   Martoreto - AA Passenger
   FrankieNL - Nav2Contacts
+  AAHacks - [Android Auto Hacks](https://aahacks.com)
 
 AAAD downloads directly from official source of publicly available Android Auto softwares. Paid applications or apps already in Play Store will not be available in AAAD. 
 
