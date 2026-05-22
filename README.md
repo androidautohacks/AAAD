@@ -38,14 +38,14 @@ AAAD is free and offers in app purchases. The free version of the app allows up 
 
 AAAD apps were made possible thanks to: 
 
-  Annexhack - Screen2Auto, AAStream, AA Mirror Plus
+  Annexhack - [Screen2Auto](https://screen2auto.com), [AAStream](https://aastream.app), AA Mirror Plus
   Andrey Pavlenko - [Fermata Auto](https://fermata-auto.com/)
   Slashmax - [AAMirror](https://aamirror.com)
   Kiran Kumar, Eselter, Kristakos, Paesani2006 - [CarStream](https://carstream.app)
   ns130291 - Widgets For Android Auto - [AAWidget](https://aawidget.com/)
   jilleb - Performance Monitor
   agronick - AATorque
-  kododake - [AA Browser] (https://aabrowser.app)
+  kododake - [AA Browser](https://aabrowser.app)
   Martoreto - AA Passenger
   FrankieNL - Nav2Contacts
   AAHacks - [Android Auto Hacks](https://aahacks.com)
